@@ -1,4 +1,4 @@
-### Eai! Eu sou o Vinicius Cruz! 👋
+### Eai! Eu sou o Vinicius! 👋
 
 - 📱 Ainda não tenho uma experiência profissional na área
 - 🌱 Estou estudando HTML, CSS e JS 
