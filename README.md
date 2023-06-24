@@ -7,7 +7,7 @@
 
 
 <p align="center">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cruz0203&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=87cefa&text_color=000000&bg_color=f0f8ff" alt="Vinicius Cruz github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruz0203&layout=compact&hide_border=true&title_color=87cefa&text_color=87cefa&bg_color=f0f8ff" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cruz0203&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=87cefa&text_color=ffffff&bg_color=0d1117" alt="Vinicius Cruz github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruz0203&layout=compact&hide_border=true&title_color=87cefa&text_color=ffffff&bg_color=0d1117" />
 </p>
 
