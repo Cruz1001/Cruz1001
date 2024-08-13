@@ -1,7 +1,7 @@
 ### Eai! Eu sou o Vinicius! 👋
 
 - 📱 Ainda não tenho uma experiência profissional na área
-- 🌱 Estou estudando C#
+- 🌱 Estou estudando Java
 - 💬 Contato: Viniokcruz@gmail.com
 - 😄 Pronomes: Ele/Dele
 
